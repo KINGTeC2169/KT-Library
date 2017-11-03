@@ -1,0 +1,2 @@
+	//Motor Ports
+	public static final int sampleMotorPort = 1; 

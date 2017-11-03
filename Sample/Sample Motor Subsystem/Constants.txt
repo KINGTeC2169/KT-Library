@@ -1,0 +1,4 @@
+	//PID Values
+	public static final double P = .12;
+	public static final double I = 0;
+	public static final double D = .4; 
